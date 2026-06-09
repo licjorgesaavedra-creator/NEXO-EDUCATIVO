@@ -1,0 +1,6 @@
+{
+  "name": "Nexo Educativo",
+  "description": "Plataforma profesional de capacitación educativa de Nexo Educativo. Conectando escuela, familia y aprendizaje a través de talleres prácticos para padres y escuelas, consultorías y asesoramiento con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
